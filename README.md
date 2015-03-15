@@ -1,4 +1,4 @@
-# "i" editor
+# i editor
 for html5 editor , WYSIWYG rich text editor.
 
 # Icon Source:
